@@ -3,3 +3,4 @@ Rencana
   * Membaca
 - GitHub
   * Memahami
+  * Membaca
